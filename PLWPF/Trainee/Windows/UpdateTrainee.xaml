@@ -1,0 +1,99 @@
+﻿<Window x:Class="PLWPF.UpdateTrainee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="UpdateTrainee" Height="567" Width="1008" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,3.333,13.667">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="17*"/>
+            <RowDefinition Height="390*"/>
+        </Grid.RowDefinitions>
+        <Grid ShowGridLines="False" Margin="0,0,10.333,-0.333" Grid.RowSpan="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*"/>
+                <RowDefinition Height="0.1*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Content="Id" Grid.Column="0" Margin="10,39,0,0"  Width="58" Style="{DynamicResource labelStyle}" Grid.RowSpan="2" />
+            <Button x:Name="searchIcon" Click="searchIcon_Click" FontSize="25" Background="Transparent" BorderThickness="0"  Margin="691,36,243.667,3.333" Grid.RowSpan="2" RenderTransformOrigin="0.552,0.811">
+                <Button.Content>
+                    <Image x:Name="searchicon" Source="/PLWPF;component/Images/חיפוש1.png" Height="29" Width="48" RenderTransformOrigin="0.969,-0.448" />
+                </Button.Content>
+            </Button>
+            <Label Content="Type Of Car" Margin="414,0.667,0,0" Width="154"  Height="32" Style="{DynamicResource labelStyle}" Grid.Row="1"/>
+            <ComboBox x:Name="CarcomboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="158" Margin="533,5.667,0,0" Grid.Row="1"/>
+            <TextBox x:Name="IdtextBox" Text="{Binding TraineeId, UpdateSourceTrigger=LostFocus}" Style="{DynamicResource TextBoxStyle}" Margin="208,10.611,0,0" Grid.Row="1"/>
+            <Label x:Name="welcome" Content="Trainee Infromation:" HorizontalAlignment="Center" Margin="185,0,174,0" Grid.Row="0" VerticalAlignment="Top" FontSize="18" FontStyle="Italic" FontWeight="Bold" Width="634"/>
+            <Grid ShowGridLines="False" Margin="0,39,0,392.333" Grid.RowSpan="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="0.7*"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="grid1" ShowGridLines="False" Margin="1,65,191.333,-393.666" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="31*"/>
+                        <ColumnDefinition Width="61*"/>
+                        <ColumnDefinition Width="92*"/>
+                        <ColumnDefinition Width="92*"/>
+                        <ColumnDefinition Width="92*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="First Name" Grid.Row="0" Grid.Column="0" Margin="10,1,0,-11" Width="130" Height="38" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2" Grid.RowSpan="6"/>
+                    <Label Content="Last Name"  Grid.Row="1" Grid.Column="0" Margin="10,0.333,0,-9"  Width="113"  Height="32" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2" Grid.RowSpan="5"/>
+                    <Label Content="Date Of Brith"  Grid.Row="2" Grid.Column="0" Margin="10,0.667,0,-14"  Width="130"  Height="32" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2" Grid.RowSpan="4"/>
+                    <Label Content="Phone Number"  Grid.Row="3" Grid.Column="0" Margin="10,0,0,-23"  Width="174" Height="37" Grid.RowSpan="3" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="Email"  Grid.Row="4" Grid.Column="0" Margin="10,0.333,0,0"  Width="58" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="City"  Grid.Row="5" Grid.Column="0" Margin="10,0.667,0,-32" Width="113"  Height="36" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="Street"  Grid.Row="6" Grid.Column="0" Margin="10,5.667,0,-37"  Width="113" Height="36" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="House Number"  Grid.Row="7" Grid.Column="0" Margin="10,10.667,0,-42" Width="130" Height="36" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+
+                    <Label Content="Gender" Grid.Row="0" Grid.Column="3" Margin="10,0.667,0,-4"  Width="113" Height="36" Style="{DynamicResource labelStyle}" Grid.RowSpan="7"/>
+                    <Label Content="Name Of School"  Grid.Row="1" Grid.Column="3" Margin="10,1,0,-10"  Width="174" Height="37" Grid.RowSpan="6" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Name Of Teacher" Grid.Row="2" Grid.Column="3" Margin="10,1.333,0,-14"  Width="174"  Height="36" Grid.RowSpan="5" Style="{DynamicResource labelStyle}"/>
+
+                    <Label Content="Type Of Gear"  Grid.Row="3" Grid.Column="3" Margin="10,1,0,-19"  Width="154" Height="32" Grid.RowSpan="3" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Number Of lessones" Grid.Row="4" Grid.Column="3" Margin="10,0.333,0,-27" Grid.RowSpan="2"  Width="191" Height="36" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="Pass Internal Test"  Grid.Row="5" Grid.Column="3" Margin="10,0.667,0,-41"  Width="174"  Height="45" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Glasses"  Grid.Row="6" Grid.Column="3" Margin="10,4.667,0,0"  Width="84"  Style="{DynamicResource labelStyle}"/>
+
+                    <TextBox x:Name="FirstNametextBox" Text ="{Binding TraineeFirstName, UpdateSourceTrigger=LostFocus}"  Grid.Row="0" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,1,0,-3" Grid.RowSpan="6"/>
+                    <TextBox x:Name="LastNametextBox" Text="{Binding TraineeLastName, UpdateSourceTrigger=LostFocus}" Grid.Row="1" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,0.333,0,-7" Grid.RowSpan="5"/>
+                    <DatePicker x:Name="DateOfBirth" SelectedDate="{Binding TraineeDateOfBirth, UpdateSourceTrigger=LostFocus}" Grid.Column="2" HorizontalAlignment="Left" Margin="10,0.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="158"/>
+                    <TextBox x:Name="PhoneNumbertextBox" Text="{Binding TraineePhoneNumber, UpdateSourceTrigger=LostFocus}"  Grid.Row="3" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,1,0,-17" Grid.RowSpan="3" PreviewTextInput="textBox_PreviewTextInput"/>
+                    <TextBox x:Name="EmailtextBox" Text="{Binding TraineeEmailAddress, UpdateSourceTrigger=LostFocus}"  Grid.Row="4" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,0.333,0,-21" Grid.RowSpan="2" />
+                    <TextBox x:Name="CitytextBox" Grid.Row="5" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,0.667,0,-26"/>
+                    <TextBox x:Name="StreettextBox" Grid.Row="6" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,5.667,0,-31"/>
+                    <TextBox x:Name="HousetextBox"  Grid.Row="7" Grid.Column="2" Style="{DynamicResource TextBoxStyle}" Margin="10,9.667,0,-35"/>
+
+                    <ComboBox x:Name="GendercomboBox" HorizontalAlignment="Left" Grid.Row="0" Grid.Column="4" VerticalAlignment="Top" Width="158" Margin="9.667,9,0,0" Text="{Binding TraineeGender, UpdateSourceTrigger=LostFocus}"/>
+
+                    <ComboBox x:Name="GearcomboBox" HorizontalAlignment="Left" Grid.Row="3" Grid.Column="4" VerticalAlignment="Top" Width="158" Margin="10,1,0,0" Text="{Binding TraineeGearbox, UpdateSourceTrigger=LostFocus}"/>
+                    <local:UpDown x:Name="numOfLesson" HorizontalAlignment="Left" Height="31" Margin="9.667,5.333,0,0" VerticalAlignment="Top" Grid.Column="4" Grid.Row="4" Width="100"/>
+
+                    <CheckBox x:Name="InternalTestcheckBox" IsChecked="{Binding IfTraineePassedAnInternalTest, UpdateSourceTrigger=LostFocus}" Grid.Row="5" Grid.Column="4" Style="{DynamicResource CheckBoxStyle}" Margin="40,0.667,0,0"/>
+                    <CheckBox x:Name="GlassescheckBox" IsChecked="{Binding TraineeHasGlasses, UpdateSourceTrigger=LostFocus}" Grid.Row="6" Grid.Column="4" Style="{DynamicResource CheckBoxStyle}" Margin="40,5.667,0,-1"/>
+                    <ComboBox x:Name="comboBox" Text="{Binding TraineeNameOfSchool}" Grid.Column="4" HorizontalAlignment="Left" Margin="9.667,10.333,0,0" Grid.Row="1" VerticalAlignment="Top" Width="158" Height="22"/>
+                    <ComboBox x:Name="comboBox1" Text="{Binding TraineeNameOfTeacher}" Grid.Column="4" HorizontalAlignment="Left" Margin="9.667,9.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="158"/>
+                </Grid>
+                <Image x:Name="image" Grid.Column="1" HorizontalAlignment="Left" Height="153" Margin="68.333,65,0,-140.666" VerticalAlignment="Top" Width="176"/>
+                <Label x:Name="label" Content="Label" Grid.Column="1" HorizontalAlignment="Left" Margin="102,90,0,0" VerticalAlignment="Top"/>
+
+               
+                <Button x:Name="OKbutton" IsEnabled="False" Content="Update" HorizontalAlignment="Left" Margin="13.333,394,0,-373.666" VerticalAlignment="Top" Width="127" Background="Transparent" BorderThickness="3" FontSize="28" FontStyle="Italic" FontWeight="Bold" Height="57" Grid.Column="1" Click="OKbutton_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

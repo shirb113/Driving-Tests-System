@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <Test>
+    <TestNumber>10010101</TestNumber>
+    <TesterId>206935330</TesterId>
+    <TraineeId>204667758</TraineeId>
+    <DateTimeOfTest>28/01/2019 10:00:00</DateTimeOfTest>
+    <TestExitAddress>ירושלים,הלל,1</TestExitAddress>
+    <TestResult>Pass</TestResult>
+    <TestTypeOfCar>PrivateCar</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote>Very Well</TesterNote>
+    <TestCriterion>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+  <Test>
+    <TestNumber>10010102</TestNumber>
+    <TesterId>207447319</TesterId>
+    <TraineeId>204567328</TraineeId>
+    <DateTimeOfTest>17/01/2019 11:00:00</DateTimeOfTest>
+    <TestExitAddress>ירושלים,אגריפס,21</TestExitAddress>
+    <TestResult>Fail</TestResult>
+    <TestTypeOfCar>SecurityVehicle</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote>יש לתרגל חניות בשנית, כמו כן להקפיד על התבוננות במראות ומהירות נסיעה</TesterNote>
+    <TestCriterion>False,False,False,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+  <Test>
+    <TestNumber>10010103</TestNumber>
+    <TesterId>290087653</TesterId>
+    <TraineeId>207556432</TraineeId>
+    <DateTimeOfTest>20/01/2019 09:00:00</DateTimeOfTest>
+    <TestExitAddress>ירושלים,יפו,210</TestExitAddress>
+    <TestResult>Pass</TestResult>
+    <TestTypeOfCar>MediumTruck</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote>היה טוב מאוד!</TesterNote>
+    <TestCriterion>False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+  <Test>
+    <TestNumber>10010104</TestNumber>
+    <TesterId>409878765</TesterId>
+    <TraineeId>209764821</TraineeId>
+    <DateTimeOfTest>2019-01-22T14:00:00</DateTimeOfTest>
+    <TestExitAddress>ירושלים,אבן גבירול,11</TestExitAddress>
+    <TestResult>Nun</TestResult>
+    <TestTypeOfCar>CarService</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote />
+    <TestCriterion>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+  <Test>
+    <TestNumber>10010105</TestNumber>
+    <TesterId>207864773</TesterId>
+    <TraineeId>308573329</TraineeId>
+    <DateTimeOfTest>2019-02-05T10:00:00</DateTimeOfTest>
+    <TestExitAddress>רמן גן,בן גוריון,21</TestExitAddress>
+    <TestResult>Nun</TestResult>
+    <TestTypeOfCar>TwoWheeledVehicles</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote />
+    <TestCriterion>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+  <Test>
+    <TestNumber>10010107</TestNumber>
+    <TesterId>207447319</TesterId>
+    <TraineeId>204567328</TraineeId>
+    <DateTimeOfTest>2019-02-04T10:00:00</DateTimeOfTest>
+    <TestExitAddress>ירושלים,תכלת מרדכי,528</TestExitAddress>
+    <TestResult>Nun</TestResult>
+    <TestTypeOfCar>SecurityVehicle</TestTypeOfCar>
+    <TestTypeOfGearbox>Automatic</TestTypeOfGearbox>
+    <TesterNote />
+    <TestCriterion>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,</TestCriterion>
+  </Test>
+</Tests>

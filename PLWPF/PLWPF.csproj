@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33476579-7012-43C5-9A00-5E14FD358DB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PLWPF</RootNamespace>
+    <AssemblyName>PLWPF</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="LinkPage.xaml.cs">
+      <DependentUpon>LinkPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LinkTesterPage.xaml.cs">
+      <DependentUpon>LinkTesterPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LinkTestPage.xaml.cs">
+      <DependentUpon>LinkTestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LinkTraineePage.xaml.cs">
+      <DependentUpon>LinkTraineePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\ResultPage.xaml.cs">
+      <DependentUpon>ResultPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\TestResultPage.xaml.cs">
+      <DependentUpon>TestResultPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\TesterIdPage.xaml.cs">
+      <DependentUpon>TesterIdPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\TesterIDwindow.xaml.cs">
+      <DependentUpon>TesterIDwindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\AddTesterPage.xaml.cs">
+      <DependentUpon>AddTesterPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\DeleteTesterPage.xaml.cs">
+      <DependentUpon>DeleteTesterPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\AddTraineePage.xaml.cs">
+      <DependentUpon>AddTraineePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\DeleteTraineePage.xaml.cs">
+      <DependentUpon>DeleteTraineePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\DeleteTestPage.xaml.cs">
+      <DependentUpon>DeleteTestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\AddTestPage.xaml.cs">
+      <DependentUpon>AddTestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\Windows\AddTest.xaml.cs">
+      <DependentUpon>AddTest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\TesterPage.xaml.cs">
+      <DependentUpon>TesterPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\TesterScheduleWendow.xaml.cs">
+      <DependentUpon>TesterScheduleWendow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\Windows\AddTester.xaml.cs">
+      <DependentUpon>AddTester.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\TesterSchedule.xaml.cs">
+      <DependentUpon>TesterSchedule.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\TestPage.xaml.cs">
+      <DependentUpon>TestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\TraineePage.xaml.cs">
+      <DependentUpon>TraineePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\Windows\AddTrainee.xaml.cs">
+      <DependentUpon>AddTrainee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\CriterionTest.xaml.cs">
+      <DependentUpon>CriterionTest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\Windows\DeleteTest.xaml.cs">
+      <DependentUpon>DeleteTest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\Windows\DeleteTester.xaml.cs">
+      <DependentUpon>DeleteTester.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\Windows\DeleteTrainee.xaml.cs">
+      <DependentUpon>DeleteTrainee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\Windows\UpdateTrainee.xaml.cs">
+      <DependentUpon>UpdateTrainee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\Windows\UpdateTest.xaml.cs">
+      <DependentUpon>UpdateTest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\Windows\UpdateTester.xaml.cs">
+      <DependentUpon>UpdateTester.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Test\UpdateTestPage.xaml.cs">
+      <DependentUpon>UpdateTestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trainee\UpdateTraineePage.xaml.cs">
+      <DependentUpon>UpdateTraineePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tester\UpdateTesterPage.xaml.cs">
+      <DependentUpon>UpdateTesterPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpDown.xaml.cs">
+      <DependentUpon>UpDown.xaml</DependentUpon>
+    </Compile>
+    <Page Include="LinkPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LinkTesterPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LinkTestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LinkTraineePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\ResultPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\TestResultPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\TesterIdPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\TesterIDwindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\AddTesterPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\DeleteTesterPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\AddTraineePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\DeleteTraineePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\DeleteTestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\AddTestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\Windows\AddTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\TesterPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\TesterScheduleWendow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\Windows\AddTester.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\TesterSchedule.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\TestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\TraineePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\Windows\AddTrainee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\CriterionTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\Windows\DeleteTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\Windows\DeleteTester.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\Windows\DeleteTrainee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Trainee\Windows\UpdateTrainee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\Windows\UpdateTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\Windows\UpdateTester.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Test\UpdateTestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Trainee\UpdateTraineePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tester\UpdateTesterPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpDown.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{b177c62c-67ff-4295-a6db-c2c736e31154}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{26db0b40-1e57-4e4b-83ff-2f72122faf44}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\תמונה1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\home icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Tester\TesterImages\תמונה2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Trainee\TraineeImages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\חיפוש1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\רקע.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\חוזר.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\learing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\קונפטי.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\אימוגי קונפטי.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

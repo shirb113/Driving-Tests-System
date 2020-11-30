@@ -1,0 +1,93 @@
+﻿<Page x:Class="PLWPF.LinkTraineePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PLWPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LinkTraineePage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="342*"/>
+        </Grid.RowDefinitions>
+        <Grid ShowGridLines="False" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="drivingSchool" Grid.Column="2" Grid.Row="0" Content="Driving School" FontSize="16" Style="{DynamicResource MyBottonStyle}" Click="drivingSchool_Click" />
+            <Button x:Name="NumOfTest" Content="Num Of Test" FontSize="16" Style="{DynamicResource MyBottonStyle}" Grid.Column="0" Click="NumOfTest_Click"/>
+            <Button x:Name="Teacher" Content="Teacher" FontSize="16" Style="{DynamicResource MyBottonStyle}" Grid.Column="1" Click="Teacher_Click"/>
+            <Button x:Name="Allbutton" Content="View All" FontSize="25" Grid.Column="3" Style="{DynamicResource MyBottonStyle}" Click="Allbutton_Click"/>
+        </Grid>
+        <Grid Grid.Row="1" ShowGridLines="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="109*"/>
+                <ColumnDefinition Width="54*"/>
+                <ColumnDefinition Width="637*"/>
+            </Grid.ColumnDefinitions>
+            <ListView Name="myListAll" Visibility="Visible" Grid.ColumnSpan="3" Foreground="Black" Background="Transparent" FontStyle="Italic" FontWeight="Bold" Margin="31,10,32,10" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="80" DisplayMemberBinding="{Binding TraineeId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TraineeLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TraineeFirstName}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TraineeGender}" />
+                        <GridViewColumn Header="Learing Car" Width="150" DisplayMemberBinding="{Binding TraineeLearingCar}" />
+                        <GridViewColumn Header="Gearbox" Width="100" DisplayMemberBinding="{Binding TraineeGearbox}" />
+                        <GridViewColumn Header="Name Of School" Width="140" DisplayMemberBinding="{Binding TraineeNameOfSchool}" />
+                        <GridViewColumn Header="Name Of Teacher" Width="140" DisplayMemberBinding="{Binding TraineeNameOfTeacher}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListDrivingSchool" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" Background="Transparent" FontStyle="Italic" FontWeight="Bold" Margin="31,10,32,10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="80" DisplayMemberBinding="{Binding TraineeId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TraineeLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TraineeFirstName}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TraineeGender}" />
+                        <GridViewColumn Header="Learing Car" Width="150" DisplayMemberBinding="{Binding TraineeLearingCar}" />
+                        <GridViewColumn Header="Gearbox" Width="100" DisplayMemberBinding="{Binding TraineeGearbox}" />
+                        <GridViewColumn Header="Name Of School" Width="140" DisplayMemberBinding="{Binding TraineeNameOfSchool}" />
+                        <GridViewColumn Header="Name Of Teacher" Width="140" DisplayMemberBinding="{Binding TraineeNameOfTeacher}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListTeacher" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" FontStyle="Italic" Background="Transparent" FontWeight="Bold" Margin="31,10,32,10" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="80" DisplayMemberBinding="{Binding TraineeId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TraineeLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TraineeFirstName}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TraineeGender}" />
+                        <GridViewColumn Header="Learing Car" Width="150" DisplayMemberBinding="{Binding TraineeLearingCar}" />
+                        <GridViewColumn Header="Gearbox" Width="100" DisplayMemberBinding="{Binding TraineeGearbox}" />
+                        <GridViewColumn Header="Name Of School" Width="140" DisplayMemberBinding="{Binding TraineeNameOfSchool}" />
+                        <GridViewColumn Header="Name Of Teacher" Width="140" DisplayMemberBinding="{Binding TraineeNameOfTeacher}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListNumOfTest" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" FontStyle="Italic" Background="Transparent" FontWeight="Bold" Margin="31,10,32,10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="80" DisplayMemberBinding="{Binding TraineeId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TraineeLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TraineeFirstName}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TraineeGender}" />
+                        <GridViewColumn Header="Learing Car" Width="150" DisplayMemberBinding="{Binding TraineeLearingCar}" />
+                        <GridViewColumn Header="Gearbox" Width="100" DisplayMemberBinding="{Binding TraineeGearbox}" />
+                        <GridViewColumn Header="Name Of School" Width="140" DisplayMemberBinding="{Binding TraineeNameOfSchool}" />
+                        <GridViewColumn Header="Name Of Teacher" Width="140" DisplayMemberBinding="{Binding TraineeNameOfTeacher}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="PLWPF.DeleteTrainee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="DeleteTrainee" Height="450" Width="350" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,-57.667,2.667" HorizontalAlignment="Left" Width="401">
+        <Label x:Name="label" Content="Please Enter Id:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="48" Width="236" FontSize="20" FontStyle="Italic" FontWeight="Bold"/>
+        <TextBox x:Name="IdtextBox" Text="{Binding TesterId, UpdateSourceTrigger=LostFocus}" HorizontalAlignment="Left" Height="32" Margin="10,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="button" IsEnabled="False" Content="To Delete Press Here" HorizontalAlignment="Left" Margin="98,350,0,0" VerticalAlignment="Top" Width="227" Background="Transparent" BorderThickness="3" FontSize="20" FontStyle="Italic" FontWeight="Bold" Height="58" Click="button_Click"/>
+        
+          
+        <Button x:Name="searchIcon"  FontSize="25" Width="50" Background="Transparent" BorderThickness="0"  Margin="222,122,129,248" Click="searchIcon_Click">
+            <Button.Content>
+                <Image x:Name="searchicon" Source="/PLWPF;component/Images/חיפוש1.png" Height="40" Width="58" RenderTransformOrigin="0.254,-0.381" />
+            </Button.Content>
+        </Button>
+        <Label x:Name="label1" Style="{DynamicResource labelStyle}" Margin="29,180,0,0" />
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="185" Height="32"/>
+        <Label x:Name="label2" Content="Choose a type of car:" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Height="48" Width="236" FontSize="20" FontStyle="Italic" FontWeight="Bold"/>
+    </Grid>
+
+</Window>

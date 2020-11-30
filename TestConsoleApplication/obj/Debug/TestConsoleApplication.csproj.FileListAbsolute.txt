@@ -1,0 +1,55 @@
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Testers>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>207447319</TesterId>
+    <TesterLastName>ברכיה</TesterLastName>
+    <TesterFirstName>שיר</TesterFirstName>
+    <TesterDateOfBirth>23/09/1967 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Single</TesterFamilyStatus>
+    <TesterGender>Female</TesterGender>
+    <TesterHasGlasses>False</TesterHasGlasses>
+    <TesterPhoneNumber>0504244113</TesterPhoneNumber>
+    <TesterEmailAddress>shirb@gmail.com</TesterEmailAddress>
+    <TesterAddress>ירושלים,תכלת מרדכי,528</TesterAddress>
+    <TesterYearsOfExperience>4</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>14</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>SecurityVehicle</TesterSpecialization>
+    <MaxiDistanceFromAddress>364.46</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>False! True! True! True! True! False! True,Test number:10010107,
+
+Identity card of tester:207447319,
+
+Identity card of trainee:204567328,
+
+Date of test:04/02/2019 10:00:00,
+
+Test result:Nun,
+
+Type Of Car:SecurityVehicle,
+
+Type of gear:Automatic,
+ ! True! True! True! False! True! True! True! True! False! True! True! True! True! False! True! True! True! True! False! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>206935330</TesterId>
+    <TesterLastName>פולק</TesterLastName>
+    <TesterFirstName>איילת</TesterFirstName>
+    <TesterDateOfBirth>01/01/1975 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Married</TesterFamilyStatus>
+    <TesterGender>Female</TesterGender>
+    <TesterHasGlasses>False</TesterHasGlasses>
+    <TesterPhoneNumber>0523132375</TesterPhoneNumber>
+    <TesterEmailAddress>ayelet@gmail.com</TesterEmailAddress>
+    <TesterAddress>ירושלים,חי טייב,25</TesterAddress>
+    <TesterYearsOfExperience>4</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>9</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>PrivateCar</TesterSpecialization>
+    <MaxiDistanceFromAddress>423.1</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>207864773</TesterId>
+    <TesterLastName>בן דוד</TesterLastName>
+    <TesterFirstName>יעקב</TesterFirstName>
+    <TesterDateOfBirth>03/05/1960 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Divorcee</TesterFamilyStatus>
+    <TesterGender>Male</TesterGender>
+    <TesterHasGlasses>True</TesterHasGlasses>
+    <TesterPhoneNumber>0532454365</TesterPhoneNumber>
+    <TesterEmailAddress>yakov@gmail.com</TesterEmailAddress>
+    <TesterAddress>תל אביב,הרצל,59</TesterAddress>
+    <TesterYearsOfExperience>6</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>12</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>TwoWheeledVehicles</TesterSpecialization>
+    <MaxiDistanceFromAddress>501</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True,Test number:10010105,
+
+Identity card of tester:207864773,
+
+Identity card of trainee:308573329,
+
+Date of test:05/02/2019 10:00:00,
+
+Test result:Nun,
+
+Type Of Car:TwoWheeledVehicles,
+
+Type of gear:Automatic,
+ ! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>290087653</TesterId>
+    <TesterLastName>מאור</TesterLastName>
+    <TesterFirstName>מוריה</TesterFirstName>
+    <TesterDateOfBirth>15/01/1973 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Married</TesterFamilyStatus>
+    <TesterGender>Female</TesterGender>
+    <TesterHasGlasses>True</TesterHasGlasses>
+    <TesterPhoneNumber>0543232455</TesterPhoneNumber>
+    <TesterEmailAddress>moria@walla.com</TesterEmailAddress>
+    <TesterAddress>ירושלים,המלך דוד ,14</TesterAddress>
+    <TesterYearsOfExperience>5</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>9</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>MediumTruck</TesterSpecialization>
+    <MaxiDistanceFromAddress>308.98</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>False</isActive>
+    <TesterId>309876778</TesterId>
+    <TesterLastName>כהן</TesterLastName>
+    <TesterFirstName>שמואל</TesterFirstName>
+    <TesterDateOfBirth>01/12/1968 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Widower</TesterFamilyStatus>
+    <TesterGender>Male</TesterGender>
+    <TesterHasGlasses>True</TesterHasGlasses>
+    <TesterPhoneNumber>0543255433</TesterPhoneNumber>
+    <TesterEmailAddress>shmuel@gmail.com</TesterEmailAddress>
+    <TesterAddress>רמת גן,הירדן,34</TesterAddress>
+    <TesterYearsOfExperience>7</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>5</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>HeavyTruck</TesterSpecialization>
+    <MaxiDistanceFromAddress>213.76</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! False! False! True! True! True! False! False! True! True! True! True! True! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>409878765</TesterId>
+    <TesterLastName>פולק</TesterLastName>
+    <TesterFirstName>ישראל</TesterFirstName>
+    <TesterDateOfBirth>09/04/1974 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Single</TesterFamilyStatus>
+    <TesterGender>Male</TesterGender>
+    <TesterHasGlasses>False</TesterHasGlasses>
+    <TesterPhoneNumber>0543133456</TesterPhoneNumber>
+    <TesterEmailAddress>yisrael@gmail.com</TesterEmailAddress>
+    <TesterAddress>ירושלים,כנפי נשרים,30</TesterAddress>
+    <TesterYearsOfExperience>5</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>5</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>CarService</TesterSpecialization>
+    <MaxiDistanceFromAddress>318.6</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True,Test number:10010104,
+
+Identity card of tester:409878765,
+
+Identity card of trainee:209764821,
+
+Date of test:22/01/2019 14:00:00,
+
+Test result:Nun,
+
+Type Of Car:CarService,
+
+Type of gear:Automatic,
+ ! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>true</isActive>
+    <TesterId>203454587</TesterId>
+    <TesterLastName>כהן</TesterLastName>
+    <TesterFirstName>שרה</TesterFirstName>
+    <TesterDateOfBirth>1960-01-01T00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Married</TesterFamilyStatus>
+    <TesterGender>Female</TesterGender>
+    <TesterHasGlasses>false</TesterHasGlasses>
+    <TesterPhoneNumber>0546332218</TesterPhoneNumber>
+    <TesterEmailAddress>sara@walla.co.il</TesterEmailAddress>
+    <TesterAddress>ירושלים,הלל,32</TesterAddress>
+    <TesterYearsOfExperience>6</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>10</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>TwoWheeledVehicles</TesterSpecialization>
+    <MaxiDistanceFromAddress>345</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>308756321</TesterId>
+    <TesterLastName>רונני</TesterLastName>
+    <TesterFirstName>נועם</TesterFirstName>
+    <TesterDateOfBirth>18/04/1960 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Divorcee</TesterFamilyStatus>
+    <TesterGender>Male</TesterGender>
+    <TesterHasGlasses>False</TesterHasGlasses>
+    <TesterPhoneNumber>0543889976</TesterPhoneNumber>
+    <TesterEmailAddress>noam@gmail.com</TesterEmailAddress>
+    <TesterAddress>חיפה,הנמל,33</TesterAddress>
+    <TesterYearsOfExperience>5</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>12</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>PrivateCar</TesterSpecialization>
+    <MaxiDistanceFromAddress>267.9</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! True! True! True! True! True! True! True! True! True! False! False! False! False! False! False! False! False! False! False! False! False! False! False! False! </MatrixTesterworkdays>
+  </Tester>
+  <Tester>
+    <isActive>True</isActive>
+    <TesterId>111111111</TesterId>
+    <TesterLastName>ברכיה</TesterLastName>
+    <TesterFirstName>איילת</TesterFirstName>
+    <TesterDateOfBirth>01/01/1975 00:00:00</TesterDateOfBirth>
+    <TesterFamilyStatus>Single</TesterFamilyStatus>
+    <TesterGender>Female</TesterGender>
+    <TesterHasGlasses>False</TesterHasGlasses>
+    <TesterPhoneNumber>0523132375</TesterPhoneNumber>
+    <TesterEmailAddress>ayelet@gmal.com</TesterEmailAddress>
+    <TesterAddress>ירושלים,חי טייב,25</TesterAddress>
+    <TesterYearsOfExperience>6</TesterYearsOfExperience>
+    <TesterMaxNumOfTestsPerWeek>4</TesterMaxNumOfTestsPerWeek>
+    <TesterSpecialization>PrivateCar</TesterSpecialization>
+    <MaxiDistanceFromAddress>25</MaxiDistanceFromAddress>
+    <MatrixTesterworkdays>True! True! True! True! True! True! False! False! True! True! True! False! False! True! True! True! False! False! True! True! True! False! False! True! True! True! True! True! True! True! </MatrixTesterworkdays>
+  </Tester>
+</Testers>

@@ -1,0 +1,109 @@
+﻿<Page x:Class="PLWPF.LinkTesterPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PLWPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LinkTesterPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="342*"/>
+        </Grid.RowDefinitions>
+        <Grid ShowGridLines="False" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="13*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="FamilyStatusbutton" Grid.Column="3" Grid.Row="0" Content="Family Status" FontSize="16" Style="{DynamicResource MyBottonStyle}" Click="FamilyStatus_Click" Grid.RowSpan="2" />
+            <Button x:Name="IsActive" Content="Is Active" FontSize="16" Style="{DynamicResource MyBottonStyle}" Click="IsActive_Click" Grid.Column="1" Grid.RowSpan="2"/>
+            <Button x:Name="Specialization" Content="Specialization" FontSize="16" Style="{DynamicResource MyBottonStyle}" Click="Specialization_Click"  Grid.Column="2" Grid.RowSpan="2"/>
+            <Button x:Name="Allbutton" Content="View All" FontSize="25" Grid.Column="4" Style="{DynamicResource MyBottonStyle}" Click="Allbutton_Click" Grid.RowSpan="2"/>
+            <Label x:Name="labelCity" Content="Choose A City:" HorizontalAlignment="Left" Margin="50,10,0,0" Style="{DynamicResource labelStyle}" VerticalAlignment="Stretch" Width="126" Grid.Column="0" Grid.ColumnSpan="2"/>
+            <ComboBox x:Name="comboBoxCity" HorizontalAlignment="Left" Margin="50,0,0,0" VerticalAlignment="Top" Width="120" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" SelectionChanged="comboBoxCity_SelectionChanged"/>
+
+        </Grid>
+        <Grid Grid.Row="1" ShowGridLines="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="109*"/>
+                <ColumnDefinition Width="54*"/>
+                <ColumnDefinition Width="637*"/>
+            </Grid.ColumnDefinitions>
+            <ListView Name="myListAll" Visibility="Visible" Grid.ColumnSpan="3" Foreground="Black" Background="Transparent" FontStyle="Italic" FontWeight="Bold" Margin="31,10,32,10" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding TesterId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TesterLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TesterFirstName}" />
+                        <GridViewColumn Header="Family Status" Width="100" DisplayMemberBinding="{Binding TesterFamilyStatus}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TesterGender}" />
+                        <GridViewColumn Header="Specialization" Width="170" DisplayMemberBinding="{Binding TesterSpecialization}" />
+                        <GridViewColumn Header="Active" Width="100" DisplayMemberBinding="{Binding isActive}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListFamilyStatus" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" Background="Transparent" FontStyle="Italic" FontWeight="Bold" Margin="31,10,32,10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding TesterId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TesterLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TesterFirstName}" />
+                        <GridViewColumn Header="Family Status" Width="100" DisplayMemberBinding="{Binding TesterFamilyStatus}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TesterGender}" />
+                        <GridViewColumn Header="Specialization" Width="170" DisplayMemberBinding="{Binding TesterSpecialization}" />
+                        <GridViewColumn Header="Active" Width="100" DisplayMemberBinding="{Binding isActive}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListIsActive" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" FontStyle="Italic" Background="Transparent" FontWeight="Bold" Margin="31,10,32,10" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding TesterId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TesterLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TesterFirstName}" />
+                        <GridViewColumn Header="Family Status" Width="100" DisplayMemberBinding="{Binding TesterFamilyStatus}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TesterGender}" />
+                        <GridViewColumn Header="Specialization" Width="170" DisplayMemberBinding="{Binding TesterSpecialization}" />
+                        <GridViewColumn Header="Active" Width="100" DisplayMemberBinding="{Binding isActive}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListSpecialization" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" FontStyle="Italic" Background="Transparent" FontWeight="Bold" Margin="31,10,32,10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding TesterId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TesterLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TesterFirstName}" />
+                        <GridViewColumn Header="Family Status" Width="100" DisplayMemberBinding="{Binding TesterFamilyStatus}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TesterGender}" />
+                        <GridViewColumn Header="Specialization" Width="170" DisplayMemberBinding="{Binding TesterSpecialization}" />
+                        <GridViewColumn Header="Active" Width="100" DisplayMemberBinding="{Binding isActive}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView Name="myListCity" Visibility="Hidden" Grid.ColumnSpan="3" Foreground="Black" Background="Transparent" FontStyle="Italic" FontWeight="Bold" Margin="31,10,32,10" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding TesterId}" />
+                        <GridViewColumn Header="Last Name" Width="100" DisplayMemberBinding="{Binding TesterLastName}" />
+                        <GridViewColumn Header="First Name" Width="100" DisplayMemberBinding="{Binding TesterFirstName}" />
+                        <GridViewColumn Header="Family Status" Width="100" DisplayMemberBinding="{Binding TesterFamilyStatus}" />
+                        <GridViewColumn Header="Gender" Width="100" DisplayMemberBinding="{Binding TesterGender}" />
+                        <GridViewColumn Header="Specialization" Width="170" DisplayMemberBinding="{Binding TesterSpecialization}" />
+                        <GridViewColumn Header="Active" Width="100" DisplayMemberBinding="{Binding isActive}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </Grid>
+</Page>

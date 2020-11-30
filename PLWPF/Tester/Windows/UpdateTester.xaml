@@ -1,0 +1,97 @@
+﻿<Window x:Class="PLWPF.UpdateTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="UpdateTester" Height="622.666" Width="1086.667" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid ShowGridLines="False" Margin="0,0,0.333,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45*"/>
+                <RowDefinition Height="49*"/>
+                <RowDefinition Height="455*"/>
+            </Grid.RowDefinitions>
+            <Label x:Name="welcome" Content="Update Infromation:" HorizontalAlignment="Center" Margin="209,0,198,0" Grid.Row="0" VerticalAlignment="Top" FontSize="18" FontStyle="Italic" FontWeight="Bold" Width="634" Height="34"/>
+            <TextBox x:Name="IdtextBox" Text="{Binding TesterId, UpdateSourceTrigger=LostFocus}" Grid.Row="1" Style="{DynamicResource TextBoxStyle}" IsEnabled="True" PreviewTextInput="textBox_PreviewTextInput" Margin="201,12,0,0" Width="161"/>
+            <Button x:Name="searchIcon" FontSize="25" Background="Transparent" BorderThickness="0"  Margin="367,10,646.667,9.667" Click="searchIcon_Click" Grid.Row="1">
+                <Button.Content>
+                    <Image x:Name="searchicon" Source="/PLWPF;component/Images/חיפוש1.png" Height="29" Width="83" RenderTransformOrigin="0.254,-0.381" />
+                </Button.Content>
+            </Button>
+            <Label Content="Id" Grid.Row="1" Grid.Column="0" Margin="10,9.667,0,0" Width="58" Style="{DynamicResource labelStyle}" Height="30" />
+            <Grid x:Name="grid1" ShowGridLines="False" Margin="10,10,109.667,0.333" Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="145*"/>
+                    <ColumnDefinition Width="627*"/>
+                    <ColumnDefinition Width="270*"/>
+                </Grid.ColumnDefinitions>
+                <Grid  Margin="0,10,0.667,34" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175*"/>
+                        <ColumnDefinition Width="41.333"/>
+                        <ColumnDefinition Width="151.333"/>
+                        <ColumnDefinition Width="186*"/>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="144.333"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="First Name" Grid.Row="0" Grid.Column="0" Margin="10,10,0,0" Width="130" Height="38" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Last Name" Grid.Row="1" Grid.Column="0" Margin="10,9.333,0,0"  Width="113" Height="32" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Date Of Brith" Grid.Row="2" Grid.Column="0" Margin="10,10.667,0,0"  Width="130" Height="32" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Phone Number" Grid.Row="3" Grid.Column="0" Margin="10,10,0,0"  Width="174" Height="37" Style="{DynamicResource labelStyle}" Grid.ColumnSpan="2"/>
+                    <Label Content="Email" Grid.Row="4" Grid.Column="0" Margin="10,9.333,0,0"  Width="58" Style="{DynamicResource labelStyle}" Height="32"/>
+                    <Label Content="City" Grid.Row="5" Grid.Column="0" Margin="10,10.667,0,0"  Width="113" Height="36" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Street" Grid.Row="6" Grid.Column="0" Margin="10,10,0,0"  Width="113" Height="36" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="House Number" Grid.Row="7" Grid.Column="0" Margin="10,10.333,0,0" Width="130" Height="36" Style="{DynamicResource labelStyle}"/>
+
+                    <Label Content="Gender" Grid.Row="0" Grid.Column="3" Margin="9.667,10,0,0"  Width="113" Height="36" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Family Status" Grid.Row="1" Grid.Column="3" Margin="9.667,9.333,0,0" Width="174" Height="37" Style="{DynamicResource labelStyle}"/>
+                    <Label Content="Years Of Experience" Grid.Row="2" Grid.Column="3" Margin="9.667,10.667,0,0" Width="174" Style="{DynamicResource labelStyle}" Height="31"/>
+                    <Label Content="Amount Of Test Per Week" Grid.Row="3" Grid.Column="3" Margin="9.667,9,0,0" Width="174" FontSize="14" Style="{DynamicResource labelStyle}" Height="29"/>
+                    <Label Content="Maximum Distance" Grid.Row="4" Grid.Column="3" Margin="9.667,9.333,0,0" Width="154" Style="{DynamicResource labelStyle}" Height="32" />
+                    <Label Content="Glasses" Grid.Row="6" Grid.Column="3" Margin="9.667,10,0,0" Width="84" Style="{DynamicResource labelStyle}" Height="31"/>
+                    <Label Content="Type Of Car" Grid.Row="5" Grid.Column="3" Margin="9.667,10.667,0,0" Width="135" Style="{DynamicResource labelStyle}" Height="31"/>
+                    <Label x:Name="testerActive" Content="Active" Grid.Column="3" Margin="10,6.667,0,0" Grid.Row="7" Style="{DynamicResource labelStyle}"/>
+                    <CheckBox x:Name="activecheckBox" IsChecked="{Binding isActive}" Grid.Column="5" HorizontalAlignment="Left" Margin="10,11,0,0" Grid.Row="7" VerticalAlignment="Top" Height="27"/>
+                    <ComboBox x:Name="CarcomboBox" HorizontalAlignment="Left" Grid.Row="5" Grid.Column="5" VerticalAlignment="Top" Width="158" Margin="9.333,10.667,-23.333,0" Text="{Binding TesterSpecialization, UpdateSourceTrigger=LostFocus}" Height="22"/>
+                    <TextBox x:Name="FirstNametextBox" Text ="{Binding TesterFirstName, UpdateSourceTrigger=LostFocus}" Grid.Row="0" Grid.Column="1" Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,10,0,0"/>
+                    <TextBox x:Name="LastNametextBox" Text="{Binding TesterLastName, UpdateSourceTrigger=LostFocus}" Grid.Row="1" Grid.Column="1" Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,9.333,0,0"/>
+                    <DatePicker x:Name="DateOfBirth" SelectedDate="{Binding TesterDateOfBirth, UpdateSourceTrigger=LostFocus}" Grid.Column="1" HorizontalAlignment="Left" Margin="10.333,10.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="158" Grid.ColumnSpan="2" Height="24"/>
+                    <TextBox x:Name="PhoneNumbertextBox" Text="{Binding TesterPhoneNumber, UpdateSourceTrigger=LostFocus}" Grid.Row="3" Grid.Column="1" Style="{DynamicResource TextBoxStyle}" PreviewTextInput="textBox_PreviewTextInput" Grid.ColumnSpan="2" Margin="10.333,10,0,0"/>
+                    <TextBox x:Name="EmailtextBox" Text="{Binding TesterEmailAddress, UpdateSourceTrigger=LostFocus}" Grid.Row="4" Grid.Column="1" Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,9.333,0,0"/>
+                    <TextBox x:Name="CitytextBox" Text="{Binding TesterAddress.City}" Grid.Row="5" Grid.Column="1" TextWrapping="Wrap" Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,10.667,0,0"/>
+                    <TextBox x:Name="StreettextBox" Grid.Row="6" Grid.Column="1" TextWrapping="Wrap"  Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,10,0,0"/>
+                    <TextBox x:Name="HousetextBox" Grid.Row="7" Grid.Column="1" TextWrapping="Wrap" Style="{DynamicResource TextBoxStyle}" Grid.ColumnSpan="2" Margin="10.333,9.333,0,0"/>
+
+                    <ComboBox x:Name="GendercomboBox" HorizontalAlignment="Left" Grid.Row="0" Grid.Column="5" VerticalAlignment="Top" Width="158" Margin="9.333,10,-23.333,0" Text="{Binding TesterGender, UpdateSourceTrigger=LostFocus}" Height="22"/>
+
+                    <CheckBox x:Name="GlassescheckBox" IsChecked="{Binding TesterHasGlasses, UpdateSourceTrigger=LostFocus}" Content="" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="6" Grid.Column="5" Margin="9.333,23,0,12.667" Height="15" Width="20"/>
+                    <ComboBox x:Name="FamiltSatus" Grid.Column="5" HorizontalAlignment="Left" Margin="9.333,9.333,-23.333,0" VerticalAlignment="Top" Width="158" Grid.Row="1" Text="{Binding TesterFamilyStatus, UpdateSourceTrigger=LostFocus}" Height="22"/>
+                    <TextBox x:Name="MaxDis" Grid.Column="5" Grid.Row="4" Text="{Binding MaxiDistanceFromAddress, UpdateSourceTrigger=LostFocus}" Style="{DynamicResource TextBoxStyle}" Margin="9.333,9.333,-23.333,0"/>
+                    <local:UpDown x:Name="yearsOfExperience" Grid.Column="5" HorizontalAlignment="Left" Height="35" Margin="10.333,11.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100" RenderTransformOrigin="-0.093,-0.438"/>
+                    <local:UpDown x:Name="testPerWeek" Grid.Column="5" HorizontalAlignment="Left" Height="37" Margin="10.333,9.333,0,0" Grid.Row="3" VerticalAlignment="Top" Width="119"/>
+                </Grid>
+                <Image x:Name="image" Grid.Column="2" HorizontalAlignment="Left" Height="153" Margin="120.333,-37,-71,0" VerticalAlignment="Top" Width="196"/>
+                <Label x:Name="label" Content="Label" Grid.Column="2" HorizontalAlignment="Left" Margin="180.333,24,0,0" VerticalAlignment="Top"/>
+
+
+
+                <Button x:Name="OKbutton" IsEnabled="False" Content="Update" HorizontalAlignment="Right" Margin="0,414,66,-11" VerticalAlignment="Top" Width="180" Background="Transparent" BorderThickness="3" FontSize="28" FontStyle="Italic" FontWeight="Bold" Height="45" Click="OKbutton_Click" Grid.Column="1" Grid.ColumnSpan="2"/>
+                <Button x:Name="button" IsEnabled="False" Content="To Update Schedule" HorizontalAlignment="Left" Margin="350,414,0,0" VerticalAlignment="Top" Width="200" Background="Transparent" BorderThickness="3" FontSize="20" FontStyle="Italic" FontWeight="Bold" Height="45" Click="button_Click" Grid.Column="1"/>
+
+            </Grid>
+           
+        </Grid>
+    </Grid>
+</Window>

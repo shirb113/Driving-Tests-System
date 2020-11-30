@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trainees>
+  <Trainee>
+    <TraineeId>204667758</TraineeId>
+    <TraineeFirstName>רות</TraineeFirstName>
+    <TraineeLastName>שימחוני</TraineeLastName>
+    <TraineeGender>Female</TraineeGender>
+    <TraineePhoneNumber>0543672228</TraineePhoneNumber>
+    <TraineeEmailAddress>ruth@walla.co.il</TraineeEmailAddress>
+    <TraineeDateOfBirth>03/04/1996 00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>PrivateCar</TraineeLearingCar>
+    <TraineeGearbox>Automatic</TraineeGearbox>
+    <TraineeNameOfSchool>על גלגלים</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>עוז שמעוני</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>34</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>True</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>True</IfTraineePassedAnInternalTest>
+    <TraineeAddress>רחובות,המדע,12</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>307221413</TraineeId>
+    <TraineeFirstName>דביר</TraineeFirstName>
+    <TraineeLastName>בן בשן</TraineeLastName>
+    <TraineeGender>Male</TraineeGender>
+    <TraineePhoneNumber>0509538899</TraineePhoneNumber>
+    <TraineeEmailAddress>dvir@gmail.com</TraineeEmailAddress>
+    <TraineeDateOfBirth>1998-11-07T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>TwoWheeledVehicles</TraineeLearingCar>
+    <TraineeGearbox>Manual</TraineeGearbox>
+    <TraineeNameOfSchool>שרייבר</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>טוהר שלם</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>40</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>false</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>תל אביב,החשמל,18</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>204567328</TraineeId>
+    <TraineeFirstName>רותם</TraineeFirstName>
+    <TraineeLastName>כהן</TraineeLastName>
+    <TraineeGender>Female</TraineeGender>
+    <TraineePhoneNumber>0543233123</TraineePhoneNumber>
+    <TraineeEmailAddress>rothem@walla.co.il</TraineeEmailAddress>
+    <TraineeDateOfBirth>1999-05-01T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>SecurityVehicle</TraineeLearingCar>
+    <TraineeGearbox>Automatic</TraineeGearbox>
+    <TraineeNameOfSchool>דרייב2000</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>תהל מרדכי</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>23</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>true</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>ירושלים,הלל,12</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>207556432</TraineeId>
+    <TraineeFirstName>רז</TraineeFirstName>
+    <TraineeLastName>שדה</TraineeLastName>
+    <TraineeGender>Male</TraineeGender>
+    <TraineePhoneNumber>0503344556</TraineePhoneNumber>
+    <TraineeEmailAddress>raz@gmail.com</TraineeEmailAddress>
+    <TraineeDateOfBirth>1990-12-12T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>MediumTruck</TraineeLearingCar>
+    <TraineeGearbox>Automatic</TraineeGearbox>
+    <TraineeNameOfSchool>מעוף</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>דני אסייג</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>29</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>true</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>ירושלים,אגריפס,42</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>209764821</TraineeId>
+    <TraineeFirstName>ליטל</TraineeFirstName>
+    <TraineeLastName>לוי</TraineeLastName>
+    <TraineeGender>Female</TraineeGender>
+    <TraineePhoneNumber>0543388997</TraineePhoneNumber>
+    <TraineeEmailAddress>litalLavi@gmail.com</TraineeEmailAddress>
+    <TraineeDateOfBirth>1998-11-19T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>CarService</TraineeLearingCar>
+    <TraineeGearbox>Automatic</TraineeGearbox>
+    <TraineeNameOfSchool>אור ירוק</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>תהילה לוי</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>42</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>false</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>ירושלים,אבן גבירול,14</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>302141167</TraineeId>
+    <TraineeFirstName>איתי</TraineeFirstName>
+    <TraineeLastName>קורן</TraineeLastName>
+    <TraineeGender>Male</TraineeGender>
+    <TraineePhoneNumber>050445533221</TraineePhoneNumber>
+    <TraineeEmailAddress>eitay@gmail.com</TraineeEmailAddress>
+    <TraineeDateOfBirth>1993-03-23T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>HeavyTruck</TraineeLearingCar>
+    <TraineeGearbox>Manual</TraineeGearbox>
+    <TraineeNameOfSchool>סמארטדרייב</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>אורי קורן</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>52</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>true</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>ירושלים,בצלאל,11</TraineeAddress>
+  </Trainee>
+  <Trainee>
+    <TraineeId>308573329</TraineeId>
+    <TraineeFirstName>אסף</TraineeFirstName>
+    <TraineeLastName>הראל</TraineeLastName>
+    <TraineeGender>Male</TraineeGender>
+    <TraineePhoneNumber>05087443365</TraineePhoneNumber>
+    <TraineeEmailAddress>asaf@walla.co.il</TraineeEmailAddress>
+    <TraineeDateOfBirth>1990-01-01T00:00:00</TraineeDateOfBirth>
+    <TraineeLearingCar>TwoWheeledVehicles</TraineeLearingCar>
+    <TraineeGearbox>Automatic</TraineeGearbox>
+    <TraineeNameOfSchool>שרייבר</TraineeNameOfSchool>
+    <TraineeNameOfTeacher>טוהר שלם</TraineeNameOfTeacher>
+    <TraineeNumOfDrivingLessons>35</TraineeNumOfDrivingLessons>
+    <TraineeHasGlasses>true</TraineeHasGlasses>
+    <IfTraineePassedAnInternalTest>true</IfTraineePassedAnInternalTest>
+    <TraineeAddress>רמת גן,בן גוריון,22</TraineeAddress>
+  </Trainee>
+</Trainees>

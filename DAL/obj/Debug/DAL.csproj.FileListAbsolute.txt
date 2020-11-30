@@ -1,0 +1,44 @@
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\DAL\obj\Debug\DAL.pdb

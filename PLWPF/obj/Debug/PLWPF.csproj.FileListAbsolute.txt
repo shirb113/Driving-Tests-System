@@ -1,0 +1,565 @@
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Updown.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Updown.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTest.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTester.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTrainee.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTest.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTester.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTrainee.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTrainee.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTest.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTester.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTest.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTester.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTrainee.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTest.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTester.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTrainee.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTrainee.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTest.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTester.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\איילת\Desktop\פרוייקט חלונות\הפרוייייקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\TesterScheduleWendow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\TesterScheduleWendow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\TesterScheduleWendow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\TesterScheduleWendow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpDateTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTestPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTestPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\איילת\Downloads\Telegram Desktop\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTestPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\App.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\LinkTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\ResultPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestResultPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TesterIdPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterIDwindow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\AddTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\DeleteTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\AddTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\DeleteTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\DeleteTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\AddTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\AddTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterScheduleWendow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\AddTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\TesterSchedule.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\TestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\TraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\AddTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\CriterionTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\DeleteTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\DeleteTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\DeleteTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\Windows\UpdateTrainee.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\Windows\UpdateTest.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\Windows\UpdateTester.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Test\UpdateTestPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Trainee\UpdateTraineePage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\Tester\UpdateTesterPage.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\UpDown.baml
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\shirb\Desktop\מכון טל\שנה ב\סמסטר א\מיני פרויקט במערכת חלונות\הפרויקט\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\Project01_5330_7319_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb

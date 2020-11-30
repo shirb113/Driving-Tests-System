@@ -1,0 +1,24 @@
+﻿<Page x:Class="PLWPF.TestResultPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PLWPF"
+      mc:Ignorable="d"
+      Title="TestResultPage" Height="265.549" Width="387.077">
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.3*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBoxTestNum"  Grid.Column="1" Height="40" Margin="38.667,28.333,0,0" Grid.Row="1" Width="165" Style="{DynamicResource TextBoxStyle}" PreviewTextInput="textBox_PreviewTextInput"/>
+        <Button x:Name="button" Content="Ok" FontSize="28" Grid.Column="1" Margin="38.667,9.667,34.333,10" Grid.Row="2" Style="{DynamicResource MyBottonStyle}" Click="button_Click"/>
+        <Label x:Name="label" FontSize="23" Content="  Please Enter Test &#xD;&#xA;Number For Result:" Margin="13.333,22,0,0" Height="79" Width="219" Style="{DynamicResource labelStyle}" Grid.RowSpan="2" Grid.Column="1"/>
+    </Grid>
+</Page>
